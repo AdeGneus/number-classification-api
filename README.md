@@ -1,1 +1,1 @@
-# Number Classifaction API
+# Number Classification API
